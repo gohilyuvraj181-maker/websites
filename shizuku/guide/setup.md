@@ -1,3 +1,4 @@
+root
 # User manual
 
 [[toc]]
